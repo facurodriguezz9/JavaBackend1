@@ -1,0 +1,5 @@
+run:
+Ingrese una cantidad de Grados: 
+30
+Su equivalente en Fahrenheit es: 86 F
+BUILD SUCCESSFUL (total time: 4 seconds)
